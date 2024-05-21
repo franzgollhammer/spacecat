@@ -1,0 +1,56 @@
+{
+  "name": "spacecat",
+  "displayName": "Spacecat",
+  "version": "0.0.1",
+  "description": "Spacecat Theme for from outer space",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark",
+    "Spacecat",
+    "Modern",
+    "vivid",
+    "Node.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franzgollhammer/spacecat"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Franz Gollhammer"
+  },
+  "publisher": "franzgollhammer",
+  "scripts": {
+    "package": "npx @vscode/vsce package",
+    "publish": "npx @vscode/vsce publish",
+    "release": "npm run upgrade-package-version && npm run sort-package && npm run package && npm run publish",
+    "sort-package": "npx sort-package-json ",
+    "upgrade-package-version": "node ./scripts/upgrade-package-version.js"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spacecat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacecat-color-theme.json"
+      },
+      {
+        "label": "Spacecat Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacecat Black-color-theme.json"
+      },
+      {
+        "label": "Spacecat Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacecat Black-color-theme.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "icon": "icon.png"
+}
