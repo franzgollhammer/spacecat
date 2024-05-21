@@ -1,8 +1,8 @@
 {
   "name": "spacecat",
-  "displayName": "Spacecat",
-  "version": "0.0.1",
-  "description": "Spacecat Theme for from outer space",
+  "displayName": "Space Cat Theme",
+  "version": "0.0.16",
+  "description": "A theme from outer space",
   "categories": [
     "Themes"
   ],
@@ -12,7 +12,10 @@
     "Spacecat",
     "Modern",
     "vivid",
-    "Node.js"
+    "Node.js",
+    "cat",
+    "space",
+    "spacecat"
   ],
   "repository": {
     "type": "git",
@@ -36,6 +39,11 @@
         "label": "Spacecat",
         "uiTheme": "vs-dark",
         "path": "./themes/Spacecat-color-theme.json"
+      },
+      {
+        "label": "Spacecat Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacecat Dark-color-theme.json"
       },
       {
         "label": "Spacecat Black",
