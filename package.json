@@ -1,7 +1,7 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Theme",
-  "version": "0.0.16",
+  "version": "0.0.20",
   "description": "A theme from outer space",
   "categories": [
     "Themes"
@@ -15,7 +15,9 @@
     "Node.js",
     "cat",
     "space",
-    "spacecat"
+    "spacecat",
+    "gruvbox",
+    "gruvcat"
   ],
   "repository": {
     "type": "git",
@@ -36,29 +38,39 @@
   "contributes": {
     "themes": [
       {
-        "label": "Spacecat",
+        "label": "Gruv Cat",
         "uiTheme": "vs-dark",
-        "path": "./themes/Spacecat-color-theme.json"
+        "path": "./themes/Gruv Cat-color-theme.json"
       },
       {
-        "label": "Spacecat Dark",
+        "label": "Space Cat",
         "uiTheme": "vs-dark",
-        "path": "./themes/Spacecat Dark-color-theme.json"
+        "path": "./themes/Space Cat-color-theme.json"
       },
       {
-        "label": "Spacecat Black",
+        "label": "Space Cat Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/Spacecat Black-color-theme.json"
+        "path": "./themes/Space Cat Gray-color-theme.json"
       },
       {
-        "label": "Spacecat Solarized",
+        "label": "Space Cat Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Spacecat Solarized-color-theme.json"
+        "path": "./themes/Space Cat Dark-color-theme.json"
+      },
+      {
+        "label": "Space Cat Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Cat Black-color-theme.json"
+      },
+      {
+        "label": "Space Cat Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Cat Solarized-color-theme.json"
       }
     ]
   },
   "engines": {
     "vscode": "^1.83.0"
   },
-  "icon": "icon.png"
+  "icon": "space-cat.png"
 }
