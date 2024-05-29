@@ -1,7 +1,7 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Theme",
-  "version": "0.0.23",
+  "version": "0.0.26",
   "description": "A theme from outer space",
   "categories": [
     "Themes"
@@ -38,19 +38,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Gruvcat",
+        "label": "Gruv Cat",
         "uiTheme": "vs-dark",
-        "path": "./themes/Gruvcat-color-theme.json"
+        "path": "./themes/Gruv Cat-color-theme.json"
       },
       {
         "label": "Space Cat",
         "uiTheme": "vs-dark",
         "path": "./themes/Space Cat-color-theme.json"
-      },
-      {
-        "label": "Space Cat Gruved",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Space Cat Gruved-color-theme.json"
       },
       {
         "label": "Space Cat Dark",
