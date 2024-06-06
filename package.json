@@ -43,6 +43,11 @@
         "path": "./themes/Gruv Cat-color-theme.json"
       },
       {
+        "label": "Gruv Cat Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gruv Cat Light-color-theme.json"
+      },
+      {
         "label": "Space Cat",
         "uiTheme": "vs-dark",
         "path": "./themes/Space Cat-color-theme.json"
