@@ -1,8 +1,8 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Theme",
-  "version": "0.0.26",
-  "description": "A theme from outer space",
+  "version": "0.0.35",
+  "description": "Themes from outer space",
   "categories": [
     "Themes"
   ],
@@ -17,7 +17,10 @@
     "space",
     "spacecat",
     "gruvbox",
-    "gruvcat"
+    "gruvcat",
+    "tokyocat",
+    "tokyonight",
+    "solarized"
   ],
   "repository": {
     "type": "git",
@@ -43,14 +46,14 @@
         "path": "./themes/Gruv Cat-color-theme.json"
       },
       {
-        "label": "Gruv Cat Light",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Gruv Cat Light-color-theme.json"
-      },
-      {
         "label": "Space Cat",
         "uiTheme": "vs-dark",
         "path": "./themes/Space Cat-color-theme.json"
+      },
+      {
+        "label": "Tokyo Cat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Cat-color-theme.json"
       },
       {
         "label": "Space Cat Dark",
