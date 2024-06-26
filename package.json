@@ -1,7 +1,7 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Themes",
-  "version": "0.0.40",
+  "version": "0.0.41",
   "description": "Themes from outer space",
   "categories": [
     "Themes"
@@ -41,9 +41,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Gruv Cat",
+        "label": "Gruv Cat Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Gruv Cat-color-theme.json"
+        "path": "./themes/Gruv Cat Dark-color-theme.json"
       },
       {
         "label": "Gruv Cat Light",
@@ -51,19 +51,19 @@
         "path": "./themes/Gruv Cat Light-color-theme.json"
       },
       {
-        "label": "Tokyo Cat",
+        "label": "Tokyo Cat Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tokyo Cat-color-theme.json"
+        "path": "./themes/Tokyo Cat Dark-color-theme.json"
       },
       {
         "label": "Tokyo Cat Light",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/Tokyo Cat Light-color-theme.json"
       },
       {
-        "label": "Tokyo Gruv Cat",
+        "label": "Tokyo Gruv Cat Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tokyo Gruv Cat-color-theme.json"
+        "path": "./themes/Tokyo Gruv Cat Dark-color-theme.json"
       },
       {
         "label": "Tokyo Gruv Cat Light",
@@ -71,9 +71,9 @@
         "path": "./themes/Tokyo Gruv Cat Light-color-theme.json"
       },
       {
-        "label": "Space Cat",
+        "label": "Space Cat Gruv",
         "uiTheme": "vs-dark",
-        "path": "./themes/Space Cat-color-theme.json"
+        "path": "./themes/Space Cat Gruv-color-theme.json"
       },
       {
         "label": "Space Cat Dark",
