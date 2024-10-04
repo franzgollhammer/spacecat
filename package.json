@@ -1,7 +1,7 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Themes",
-  "version": "0.0.49",
+  "version": "0.0.50",
   "description": "Themes from outer space",
   "categories": [
     "Themes"
@@ -41,6 +41,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "__dark__",
+        "uiTheme": "vs-dark",
+        "path": "./themes/__dark__-color-theme.json"
+      },
+      {
         "label": "Gruv Cat Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Gruv Cat Dark-color-theme.json"
@@ -54,6 +59,11 @@
         "label": "Tokyo Cat Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Tokyo Cat Dark-color-theme.json"
+      },
+      {
+        "label": "Tokyo Cat Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Cat Modern-color-theme.json"
       },
       {
         "label": "Tokyo Cat Light",
