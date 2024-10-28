@@ -1093,7 +1093,8 @@
         "meta.import keyword.other"
       ],
       "settings": {
-        "foreground": "#7DCFFF"
+        "foreground": "#7DCFFF",
+        "fontStyle": "italic"
       }
     },
     {
