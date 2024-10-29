@@ -1,7 +1,7 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Themes",
-  "version": "0.0.53",
+  "version": "0.0.59",
   "description": "Themes from outer space",
   "categories": [
     "Themes"
@@ -44,6 +44,11 @@
         "label": "__dark__",
         "uiTheme": "vs-dark",
         "path": "./themes/__dark__-color-theme.json"
+      },
+      {
+        "label": "__high-contrast__",
+        "uiTheme": "vs-dark",
+        "path": "./themes/__high-contrast__-color-theme.json"
       },
       {
         "label": "Gruv Cat Dark",
