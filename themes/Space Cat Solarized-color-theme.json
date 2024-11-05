@@ -1,6 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.background": "#003847",
 		"badge.background": "#047aa6",

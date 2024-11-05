@@ -1,6 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "hcDark",
+	"semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#493838",
 		"editor.background": "#000000",

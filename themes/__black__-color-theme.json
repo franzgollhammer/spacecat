@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
   "name": "__black__",
-  // "semanticHighlighting": true,
+	"semanticHighlighting": true,
 	"type": "dark",
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",

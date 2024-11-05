@@ -1,7 +1,7 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Themes",
-  "version": "0.0.77",
+  "version": "0.0.81",
   "description": "Themes from outer space",
   "categories": [
     "Themes"
@@ -49,6 +49,16 @@
         "label": "__black__",
         "uiTheme": "vs-dark",
         "path": "./themes/__black__-color-theme.json"
+      },
+      {
+        "label": "__gray__",
+        "uiTheme": "vs-dark",
+        "path": "./themes/__gray__-color-theme.json"
+      },
+      {
+        "label": "__default__",
+        "uiTheme": "vs-dark",
+        "path": "./themes/__default__-color-theme.json"
       },
       {
         "label": "__high-contrast__",
