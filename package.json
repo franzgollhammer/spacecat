@@ -1,7 +1,7 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Themes",
-  "version": "0.0.86",
+  "version": "0.0.87",
   "description": "Themes from outer space",
   "categories": [
     "Themes"
@@ -135,5 +135,5 @@
   "engines": {
     "vscode": "^1.83.0"
   },
-  "icon": "img/space-cat.png"
+  "icon": "img/space-cat.jpeg"
 }
