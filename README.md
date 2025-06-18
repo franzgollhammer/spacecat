@@ -26,4 +26,3 @@ Spacecat Themes
 <img src="img/Tokyo-Cat-Dark.png">
 <h3>Tokyo Cat Light</h3>
 <img src="img/Tokyo-Cat-Light.png">
-
