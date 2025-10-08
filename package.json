@@ -1,7 +1,7 @@
 {
   "name": "spacecat",
   "displayName": "Space Cat Themes",
-  "version": "0.0.94",
+  "version": "0.0.95",
   "description": "Themes from outer space",
   "categories": [
     "Themes"
@@ -40,6 +40,11 @@
   },
   "contributes": {
     "themes": [
+      {
+        "label": "Basic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/basic.json"
+      },
       {
         "label": "Cursed",
         "uiTheme": "vs-dark",
